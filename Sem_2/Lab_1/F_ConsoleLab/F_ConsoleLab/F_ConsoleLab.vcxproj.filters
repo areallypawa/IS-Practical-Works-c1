@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\Tasks">
+      <UniqueIdentifier>{6756bde9-82fc-4238-8efb-9bf993a0eb4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\modules">
+      <UniqueIdentifier>{7757fcf1-236a-4a10-9364-19adddfb5325}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\modules\Headers">
+      <UniqueIdentifier>{cebc4fd5-0c32-4b60-a971-f02f139256f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\modules\files">
+      <UniqueIdentifier>{34fabbab-4e40-4efb-a70e-4b8f3cc1ec41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Tasks\files">
+      <UniqueIdentifier>{e2de5dcb-9bef-4386-b7fb-35895950c097}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Tasks\Headers">
+      <UniqueIdentifier>{a63326d5-66d3-418c-89f1-d220f5e8825b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\text">
+      <UniqueIdentifier>{9f3071c0-9c81-4a18-b388-0701ee2d7067}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="F_ConsoleLab.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="createStudent.cpp">
+      <Filter>Исходные файлы\Tasks\files</Filter>
+    </ClCompile>
+    <ClCompile Include="changeStudent.cpp">
+      <Filter>Исходные файлы\Tasks\files</Filter>
+    </ClCompile>
+    <ClCompile Include="deafult.cpp">
+      <Filter>Исходные файлы\modules\files</Filter>
+    </ClCompile>
+    <ClCompile Include="createArrayOfNames.cpp">
+      <Filter>Исходные файлы\modules\files</Filter>
+    </ClCompile>
+    <ClCompile Include="changeInfo.cpp">
+      <Filter>Исходные файлы\modules\files</Filter>
+    </ClCompile>
+    <ClCompile Include="printStudent.cpp">
+      <Filter>Исходные файлы\Tasks\files</Filter>
+    </ClCompile>
+    <ClCompile Include="printStudentInfo.cpp">
+      <Filter>Исходные файлы\modules\files</Filter>
+    </ClCompile>
+    <ClCompile Include="deleteAllStudents.cpp">
+      <Filter>Исходные файлы\Tasks\files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Header_createStudent.h">
+      <Filter>Исходные файлы\Tasks\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Header_changeStudent.h">
+      <Filter>Исходные файлы\Tasks\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Header_deafult.h">
+      <Filter>Исходные файлы\modules\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Header_createArrayOfNames.h">
+      <Filter>Исходные файлы\modules\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Header_changeInfo.h">
+      <Filter>Исходные файлы\modules\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Header_printStudent.h">
+      <Filter>Исходные файлы\Tasks\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Header_printStudentInfo.h">
+      <Filter>Исходные файлы\modules\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Header_deleteAllStudents.h">
+      <Filter>Исходные файлы\Tasks\Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="out.txt">
+      <Filter>Исходные файлы\text</Filter>
+    </Text>
+    <Text Include="input.txt">
+      <Filter>Исходные файлы\text</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
