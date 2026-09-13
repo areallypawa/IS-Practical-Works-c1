@@ -1,0 +1,6 @@
+﻿  labolatornaya_4.cpp
+C:\Users\neiln\source\repos\KursachLOl\KursachLOl\labolatornaya_4.cpp(255,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\neiln\source\repos\KursachLOl\KursachLOl\labolatornaya_4.cpp(256,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\neiln\source\repos\KursachLOl\KursachLOl\labolatornaya_4.cpp(295,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\neiln\source\repos\KursachLOl\KursachLOl\labolatornaya_4.cpp(296,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  KursachLOl.vcxproj -> C:\Users\neiln\source\repos\KursachLOl\x64\Debug\KursachLOl.exe

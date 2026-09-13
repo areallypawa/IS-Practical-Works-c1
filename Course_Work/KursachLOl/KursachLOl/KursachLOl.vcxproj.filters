@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\lab1">
+      <UniqueIdentifier>{92b2672b-6cda-4e3e-b7d5-e032b1449a1e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\lab2">
+      <UniqueIdentifier>{61c4cd57-c4c1-4ef3-b77d-cb44d4d468a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\lab3">
+      <UniqueIdentifier>{35d4475c-5679-4f79-8005-5c5566b27c47}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\lab4">
+      <UniqueIdentifier>{3e96d68a-f4ea-4050-91ec-e1787b20dfb6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\menu">
+      <UniqueIdentifier>{bbfc1106-f1c1-47d4-a764-51384fe7a084}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\common">
+      <UniqueIdentifier>{40fe1843-5e7f-4d17-bd88-c3db201e06c5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="labolatornaya_1.cpp">
+      <Filter>Исходные файлы\lab1</Filter>
+    </ClCompile>
+    <ClCompile Include="labolatornaya_2.cpp">
+      <Filter>Исходные файлы\lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="labolatornaya_3.cpp">
+      <Filter>Исходные файлы\lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="labolatornaya_4.cpp">
+      <Filter>Исходные файлы\lab4</Filter>
+    </ClCompile>
+    <ClCompile Include="menu.cpp">
+      <Filter>Исходные файлы\menu</Filter>
+    </ClCompile>
+    <ClCompile Include="common.cpp">
+      <Filter>Исходные файлы\common</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Header_lab1.h">
+      <Filter>Исходные файлы\lab1</Filter>
+    </ClInclude>
+    <ClInclude Include="Header_lab2.h">
+      <Filter>Исходные файлы\lab2</Filter>
+    </ClInclude>
+    <ClInclude Include="Header_lab3.h">
+      <Filter>Исходные файлы\lab3</Filter>
+    </ClInclude>
+    <ClInclude Include="Header_lab4.h">
+      <Filter>Исходные файлы\lab4</Filter>
+    </ClInclude>
+    <ClInclude Include="Header_common.h">
+      <Filter>Исходные файлы\common</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
